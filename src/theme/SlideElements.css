@@ -1,0 +1,56 @@
+.slideshowDot {
+  display: inline-block;
+  height: 2.5vmin;
+  width: 2.5vmin;
+  border-radius: 50%;
+  cursor: pointer;
+  margin: 1vmax 2vmax;
+  background-color: #e5e5e5;
+}
+
+.slideshowDot.active {
+  background-color: #af9841;
+}
+
+.slider {
+  overflow: hidden;
+  position: relative;
+}
+
+.slider::before,
+.slider::after {
+  content: "";
+  height: 500px;
+  position: absolute;
+  width: 2rem;
+  z-index: 1;
+}
+.slider::after {
+  right: 0;
+  top: 0;
+  transform: rotateZ(180deg);
+  background: linear-gradient(to right, #366786, rgba(255, 255, 255, 0) 100%);
+}
+.slider::before {
+  left: 0;
+  top: 0;
+  background: linear-gradient(to right, #56a2ce, rgba(255, 255, 255, 0) 100%);
+}
+
+@media screen and (min-width: 768px) {
+  .slider {
+    margin: 0 5rem;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .slider {
+    margin: 0 10rem;
+  }
+}
+
+@media screen and (min-width: 1025px) {
+  .slider {
+    margin: 0 15rem;
+  }
+}

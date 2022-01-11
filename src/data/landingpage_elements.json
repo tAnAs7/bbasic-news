@@ -1,0 +1,187 @@
+{
+    "slide": {
+        "open": [
+            {"slide-id" : 1,
+                "heading" : "BBASIC",
+                "content" : "Chia sẻ kiến thức đến mọi lứa tuổi",
+                "background" : "backgrounds/library-bg.jpg",
+                "position" : "center"},
+            {"slide-id" : 2,
+                "heading" : "BBASIC",
+                "content" : "Hỗ trợ quá trình học",
+                "background" : "backgrounds/creative-bg.jpg",
+                "position" : "left"},
+            {"slide-id" : 3,
+                "heading" : "BBASIC",
+                "content" : "Ngắn gọn và đơn giản",
+                "background" : "backgrounds/touchnslide-bg.jpg",
+                "position" : "center"},
+            {"slide-id" : 4,
+                "heading" : "BBASIC",
+                "content" : "Tự học chưa bao giờ dễ dàng hơn thế",
+                "background" : "backgrounds/self-study-bg.jpg",
+                "position" : "right"}
+        ],
+        "feature": [
+            {"heading" : "Hệ thống",
+                "content" : "Thông tin được chắc lọc từ lĩnh vực liên quan và được tích hợp vào bài học",
+                "illustration" : "elements/quick.svg"},
+            {"heading" : "Hiệu quả",
+                "content" : "Lượng thông tin trong mỗi bài phù hợp để ghi nhớ trong thời gian ngắn",
+                "illustration" : "elements/improve.svg"},
+            {"heading" : "Giải trí",
+                "content" : "Nhiều mini game trực quan hỗ trợ tiếp thu nhanh",
+                "illustration" : "elements/entertain.svg"},
+            {"heading" : "Nhanh chóng",
+                "content" : "Chỉ cần 10 - 15 phút cho mỗi bài học",
+                "illustration" : "elements/simple.svg"},
+            {"heading" : "Hệ thống",
+                "content" : "Thông tin được chắc lọc từ lĩnh vực liên quan và được tích hợp vào bài học",
+                "illustration" : "elements/quick.svg"},
+            {"heading" : "Hiệu quả",
+                "content" : "Lượng thông tin trong mỗi bài phù hợp để ghi nhớ trong thời gian ngắn",
+                "illustration" : "elements/improve.svg"},
+            {"heading" : "Giải trí",
+                "content" : "Nhiều mini game trực quan hỗ trợ tiếp thu nhanh",
+                "illustration" : "elements/entertain.svg"},
+            {"heading" : "Nhanh chóng",
+                "content" : "Chỉ cần 10 - 15 phút cho mỗi bài học",
+                "illustration" : "elements/simple.svg"}
+        ]
+    },
+    "topic": [
+        {
+            "tittle": "ngôn ngữ",
+            "nav": "linguistics",
+            "img": "https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-linguistics-university-courses-wanicon-lineal-color-wanicon.png",
+            "bgContent" : "backgrounds/circle/linguistics-screen.jpg",
+            "status": "Đang phát triển"
+        },
+        {
+            "tittle": "toán học",
+            "nav": "maths",
+            "img": "https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-maths-university-courses-wanicon-lineal-color-wanicon.png",
+            "bgContent" : "backgrounds/circle/mathematics-screen.png",
+            "status": "Đang phát triển"
+        },
+        {
+            "tittle": "vật lý",
+            "nav": "physics",
+            "img": "https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-physics-university-courses-wanicon-lineal-color-wanicon.png",
+            "bgContent" : "backgrounds/circle/physics-screen.png",
+            "status": "Đang phát triển"
+        },
+        {
+            "tittle": "hóa học",
+            "nav": "chemistry",
+            "img": "https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-chemistry-university-courses-wanicon-lineal-color-wanicon.png",
+            "bgContent" : "backgrounds/circle/chemistry-screen.png",
+            "status": "Đang phát triển"
+        },
+        {
+            "tittle": "sinh học",
+            "nav": "biological",
+            "img": "https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-biological-university-courses-wanicon-lineal-color-wanicon.png",
+            "bgContent" : "backgrounds/circle/biology-screen.png",
+            "status": "Đang phát triển"
+        },
+        {
+            "tittle": "lịch sử",
+            "nav": "history",
+            "img": "https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-history-university-courses-wanicon-lineal-color-wanicon.png",
+            "bgContent" : "backgrounds/circle/history-screen.png",
+            "status": "Đang phát triển"
+        },
+        {
+            "tittle": "địa lý",
+            "nav": "geography",
+            "img": "https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-geography-university-courses-wanicon-lineal-color-wanicon.png",
+            "bgContent" : "backgrounds/circle/geography-screen.png",
+            "status": "Đang phát triển"
+        },
+        {
+            "tittle": "tin học",
+            "nav": "computer",
+            "img": "https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-computer-university-courses-wanicon-lineal-color-wanicon.png",
+            "bgContent" : "backgrounds/circle/chemistry-screen.png",
+            "status": "Đang phát triển"
+        }
+    ],
+    "update" : [
+        {
+            "title" : "Phiên bản 1.0.0-alpha.1",
+            "cardTitle" : "Bản thử nghiệm A1",
+            "cardSubtitle" : "Lên ý tưởng và chỉnh sửa",
+            "cardDetailedText" : "Chỉnh sửa các chỉ mục, tìm kiếm tài nguyên, thiết kế demo khóa học",
+            "type" : "building-log",
+            "icon_type" : "https://img.icons8.com/ios-filled/64/000000/brick-wall.png"
+        },
+        {
+            "title" : "Phiên bản 1.0.0-alpha.2",
+            "cardTitle" : "Bản thử nghiệm A2",
+            "cardSubtitle" : "Sửa lỗi hiển thị, điều chỉnh chuyển hướng",
+            "cardDetailedText" : "Lỗi hiển thị viền thương hiệu trên điện thoại, điều chỉnh cỡ chữ, chuyển hướng đến fanpage Facebook, thu nhỏ thẻ thông tin giới thiệu, điều chỉnh icon lệch",
+            "type" : "adding-log",
+            "icon_type" : "https://img.icons8.com/ios-filled/50/000000/plus.png"
+        },
+        {
+            "title" : "Phiên bản 1.0.0-alpha.3",
+            "cardTitle" : "Bản thử nghiệm A3",
+            "cardSubtitle" : "Lên ý tưởng và chỉnh sửa",
+            "cardDetailedText" : "Chỉnh sửa các chỉ mục, tìm kiếm tài nguyên, thiết kế demo khóa học",
+            "type" : "fixing-log",
+            "icon_type" : "https://img.icons8.com/ios-filled/50/000000/wrench.png"
+        }
+    ],
+    "about": [
+        {"logo" : "icons/logo.png",
+        "brand" : "BBASIC",
+        "slogan" : "Kiến thức dành cho mọi người",
+        "email" : "admin@bbasic.com",
+        "hotline" : "094.212.1540",
+        "fb": "BBASIC News",
+        "fb_page": "https://www.facebook.com/BBasic-News-100421762530200",
+        "tw": "@BbasicTheWise",
+        "ig": "BBASIC.official"}
+    ],
+    "sponsor": [
+        {
+            "site" : "Wikipedia",
+            "link" : "https://en.wikipedia.org/",
+            "icon" : "sponsors/wikipedia.png"
+        },
+        {
+            "site" : "Icon8",
+            "link" : "https://icons8.com/",
+            "icon" : "sponsors/icon8.png"
+        },
+        {
+            "site" : "unDraw - Created by Katerina Limpitsouni",
+            "link" : "https://undraw.co/",
+            "icon" : "sponsors/unDraw.png"
+        }
+    ],
+    "logo": [
+        {
+            "name": "facebook",
+            "icon": "https://img.icons8.com/bubbles/100/000000/facebook-messenger.png",
+            "link": "https://m.me/100421762530200"
+        },
+        {
+            "name": "twitter",
+            "icon": "https://img.icons8.com/bubbles/100/000000/twitter.png",
+            "link": ""
+        },
+        {
+            "name": "whatsapp",
+            "icon": "https://img.icons8.com/bubbles/100/000000/whatsapp.png",
+            "link": ""
+        },
+        {
+            "name": "skype",
+            "icon": "https://img.icons8.com/bubbles/100/000000/skype.png",
+            "link": ""
+        }
+    ]
+
+}
